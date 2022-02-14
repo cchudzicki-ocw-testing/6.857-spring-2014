@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: Run lengths
+type: OCWFile
 uid: 1916724c-219d-acd9-0ef8-41fd452a97fe
 ---
