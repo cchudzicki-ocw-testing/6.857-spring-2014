@@ -26,7 +26,7 @@ _6.857_ _Network and Computer Security_is a 12-unit (3-0-9). H-level course ![](
 Textbook
 --------
 
-There is no required textbook for this course; lecture notes will be provided. A list of recommended books is available on the [Related Resources]({{< baseurl >}}/pages/related-resources) page; that page also lists other references you may find useful.
+There is no required textbook for this course; lecture notes will be provided. A list of recommended books is available on the {{< resource_link 86caefc6-7009-f4fd-fe51-3a94094c3a93 "Related Resources" >}} page; that page also lists other references you may find useful.
 
 Groups
 ------

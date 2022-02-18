@@ -39,7 +39,7 @@ Hints for Writing Your Paper and Giving Your Talk
 
 *   How to make a [good paper and talk](http://www.eecs.berkeley.edu/~fox/paper_writing.html)
 *   [How (and How Not) to Write a Good Systems Paper](http://www.usenix.org/event/samples/submit/advice.html)
-*   Edwards, Paul N. ["How to Give an Academic Talk, v5.1" (PDF)]({{< baseurl >}}/resources/mit6_857s14_proj_umic-talk) (Courtesy of Paul Edwards. CC BY-NC-SA 4.0.)
+*   Edwards, Paul N. {{< resource_link 1180a477-79b9-3afe-6795-4e643d2a6931 "\"How to Give an Academic Talk, v5.1\" (PDF)" >}} (Courtesy of Paul Edwards. CC BY-NC-SA 4.0.)
 
 This Year's Projects
 --------------------
