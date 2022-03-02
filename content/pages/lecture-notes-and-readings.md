@@ -37,7 +37,7 @@ READINGS AND HANDOUTS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 2c91bd94-2816-c0cc-a14f-216f098c0bf4 "Course Introduction (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2c91bd94-2816-c0cc-a14f-216f098c0bf4 "Course Introduction (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -57,7 +57,7 @@ READINGS AND HANDOUTS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 7fe96705-a821-49e2-de1d-5f20ca34595b "Security Mechanisms and Principles (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7fe96705-a821-49e2-de1d-5f20ca34595b "Security Mechanisms and Principles (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -81,7 +81,7 @@ Juels, Ari, and Ronald Rivest. "[Honeywords: Making Password-Cracking Detectable
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 49ff5c8b-a852-58a7-e9da-7e6463687420 "Encryption, Perfect Secrecy, One-Time Pad (PDF - 1.6MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 49ff5c8b-a852-58a7-e9da-7e6463687420 "Encryption, Perfect Secrecy, One-Time Pad (PDF - 1.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ Juels, Ari, and Ronald Rivest. "[Honeywords: Making Password-Cracking Detectable
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a526654f-dcc2-7325-9d1e-2bc5b4989d4d "Cryptographic Hash Functions (PDF - 1.6MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a526654f-dcc2-7325-9d1e-2bc5b4989d4d "Cryptographic Hash Functions (PDF - 1.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ Hess, Austin. "[Student Innovators May Get New Legal Resource](http://tech.mit.e
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link af613d5b-bf10-0539-a9ac-8c05ecfd1b64 "Hashing Applications and Constructions (PDF - 1.7MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link af613d5b-bf10-0539-a9ac-8c05ecfd1b64 "Hashing Applications and Constructions (PDF - 1.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -155,7 +155,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-{{< resource_link 5aeb6cfc-ca1d-5b52-b937-526d2de9d3dd "Bitcoin (PDF)" >}}
+{{% resource_link 5aeb6cfc-ca1d-5b52-b937-526d2de9d3dd "Bitcoin (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -175,7 +175,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 4b8e8c3f-668b-50e6-9862-56ee388585df "Secret Sharing (PDF - 2.2MB)" >}}  
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4b8e8c3f-668b-50e6-9862-56ee388585df "Secret Sharing (PDF - 2.2MB)" %}}  
 (Only read the section on secret sharing)
 
 
@@ -196,7 +196,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e843eb5a-ca0a-72f3-9d37-7e40f1a8d1aa "Block Ciphers (PDF - 2.8MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e843eb5a-ca0a-72f3-9d37-7e40f1a8d1aa "Block Ciphers (PDF - 2.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -216,7 +216,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link eee70ade-5468-8452-bd11-99581db8d643 "Block Cipher Modes (PDF - 5.2MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link eee70ade-5468-8452-bd11-99581db8d643 "Block Cipher Modes (PDF - 5.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -240,7 +240,7 @@ Desai, Anand. "[New Paradigms for Constructing Symmetric Encryption Schemes Secu
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link b5053bc3-f3c2-9468-5450-43e2666b0764 "Message Authentication Codes (PDF - 6.7MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b5053bc3-f3c2-9468-5450-43e2666b0764 "Message Authentication Codes (PDF - 6.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +264,7 @@ Bellare, M., P. Rogaway, et al. "[The EAX Mode of Operation](http://dx.doi.org/1
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 67e37a29-1110-4255-980e-84d1e7a37891 "Prime Finding and other \"Crypto\" Math (PDF - 8.1MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 67e37a29-1110-4255-980e-84d1e7a37891 "Prime Finding and other \"Crypto\" Math (PDF - 8.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -288,7 +288,7 @@ Cao, Zhengjun. ![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9420b84f-0431-ddea-174b-eace5eeaabda "Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9420b84f-0431-ddea-174b-eace5eeaabda "Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -308,7 +308,7 @@ Cao, Zhengjun. ![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4e7edfa-b813-e07e-0ef8-ad48560b41f3 "Pedersen Commitment, PK Encryption, DDH (PDF - 8.4MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4e7edfa-b813-e07e-0ef8-ad48560b41f3 "Pedersen Commitment, PK Encryption, DDH (PDF - 8.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -334,7 +334,7 @@ Paar, Christof, and Jan Pelzl. Chapters 6, 7, and 8 in [_Understanding Cryptogra
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f89a32f7-6c59-680d-c70b-11d2ce920953 "Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f89a32f7-6c59-680d-c70b-11d2ce920953 "Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -360,7 +360,7 @@ Boneh, Dan. ![This resource may not render correctly in a screen reader.](/image
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e39c2564-3b2e-2bb2-94d5-b65af0220e57 "Digital Signatures (PDF - 8.4MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e39c2564-3b2e-2bb2-94d5-b65af0220e57 "Digital Signatures (PDF - 8.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -380,7 +380,7 @@ Boneh, Dan. ![This resource may not render correctly in a screen reader.](/image
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 99254469-4fa1-bc3f-b4de-c9e4d5a51d35 "DSA, Gap Groups (PDF - 3.0MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 99254469-4fa1-bc3f-b4de-c9e4d5a51d35 "DSA, Gap Groups (PDF - 3.0MB)" %}}
 
 
 {{< tdclose >}}
@@ -404,7 +404,7 @@ Project Progress Review
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 44d332d6-0b55-e600-a88e-1ee8fa72c36a "Gap Groups, Bilinear Maps, and Applications (PDF - 5.2MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 44d332d6-0b55-e600-a88e-1ee8fa72c36a "Gap Groups, Bilinear Maps, and Applications (PDF - 5.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -430,7 +430,7 @@ The Pairing-Based Crypto Lounge.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f88555d2-c9e3-264a-5ce9-34344324c2e7 "Zero-Knowledge Proofs (PDF - 4.0MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f88555d2-c9e3-264a-5ce9-34344324c2e7 "Zero-Knowledge Proofs (PDF - 4.0MB)" %}}
 
 
 {{< tdclose >}}
