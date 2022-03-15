@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 144107b0-9f7f-fc0d-e212-00bcc7c0981e
+video_metadata:
+  youtube_id: null
 ---
 Some assignments do not have solutions or supporting files.
 

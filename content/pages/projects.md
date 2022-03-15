@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 0bbb422d-c0e4-b5bd-9073-74b64d7bf8e6
+video_metadata:
+  youtube_id: null
 ---
 ## Important Dates for the Project
 

@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 7405a90c-c8d8-12ab-26a3-58cef61af90d
+video_metadata:
+  youtube_id: null
 ---
 ## Course Meeting Times
 
