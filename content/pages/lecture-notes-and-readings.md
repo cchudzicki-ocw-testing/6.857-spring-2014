@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Readings
 uid: f4adbe54-f29c-d0cc-1896-d1a39cc0eb1d
+video_metadata:
+  youtube_id: null
 ---
 
 \[Katz and Lindell\] = Katz, Jonathan, and Yehuda Lindell. _Introduction to Modern Cryptography_. Chapman and Hall / CRC, 2007. ISBN: 9781584885511. \[Preview with [Google Books](http://books.google.com/books?id=TTtVKHdOcDoC&pg=PAfrontcover)\]

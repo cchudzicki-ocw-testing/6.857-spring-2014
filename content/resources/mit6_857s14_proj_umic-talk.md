@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: How to Give an Academic Talk, v5.1
 uid: 1180a477-79b9-3afe-6795-4e643d2a6931
+video_metadata:
+  youtube_id: null
 ---

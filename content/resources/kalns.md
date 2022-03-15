@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: kalns
 uid: 2f549600-d142-0b64-8d27-2e70777eddc1
+video_metadata:
+  youtube_id: null
 ---
