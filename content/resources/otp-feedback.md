@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 144107b0-9f7f-fc0d-e212-00bcc7c0981e
 resourcetype: Other
 title: Otp Feedback
 uid: efa34230-1e58-4459-5f1c-9d1adc3d5f00

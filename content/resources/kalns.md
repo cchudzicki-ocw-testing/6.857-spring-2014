@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 144107b0-9f7f-fc0d-e212-00bcc7c0981e
 resourcetype: Other
 title: kalns
 uid: 2f549600-d142-0b64-8d27-2e70777eddc1

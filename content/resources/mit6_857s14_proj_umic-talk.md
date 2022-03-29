@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0bbb422d-c0e4-b5bd-9073-74b64d7bf8e6
 resourcetype: Document
 title: How to Give an Academic Talk, v5.1
 uid: 1180a477-79b9-3afe-6795-4e643d2a6931

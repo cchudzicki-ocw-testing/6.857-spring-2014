@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 144107b0-9f7f-fc0d-e212-00bcc7c0981e
 resourcetype: Other
 title: Problem 2-2 sol
 uid: 92eb4a99-8a5b-c40b-053c-3e572ec4d0d5
