@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Tenciphs.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-857-network-and-computer-security-spring-2014/dcee7c3fd8db575c90adbd6a3d7d945c_tenciphs.txt
+file: /courses/6-857-network-and-computer-security-spring-2014/dcee7c3fd8db575c90adbd6a3d7d945c_tenciphs.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,4 @@ resourcetype: Other
 title: Tenciphs
 uid: dcee7c3f-d8db-575c-90ad-bd6a3d7d945c
 ---
+This file contains the information regarding Tenciphs.

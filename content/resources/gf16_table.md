@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Gf16 table.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-857-network-and-computer-security-spring-2014/348c50615bdadada129c5a6dbaeabc43_gf16_table.txt
+file: /courses/6-857-network-and-computer-security-spring-2014/348c50615bdadada129c5a6dbaeabc43_gf16_table.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,4 @@ resourcetype: Other
 title: Gf16 table
 uid: 348c5061-5bda-dada-129c-5a6dbaeabc43
 ---
+This file contains the information regarding Gf16 table.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding hashes.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-857-network-and-computer-security-spring-2014/c7022dcb4d8394b584d01ee6c70ceeee_hashes.txt
+file: /courses/6-857-network-and-computer-security-spring-2014/c7022dcb4d8394b584d01ee6c70ceeee_hashes.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,4 @@ resourcetype: Other
 title: Hashes
 uid: c7022dcb-4d83-94b5-84d0-1ee6c70ceeee
 ---
+This file contains the information regarding hashes.
