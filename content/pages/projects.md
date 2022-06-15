@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides details on the course project, including important
+  dates, project ideas, topics from previous years, hints for writing papers and giving
+  talks.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
