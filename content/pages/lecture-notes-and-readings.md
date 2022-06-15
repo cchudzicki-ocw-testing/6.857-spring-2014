@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for each session of the course
+  along with associated readings and handouts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Readings

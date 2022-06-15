@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of recommended textbooks, readings, and
+  other courses that contain relevant material for the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
