@@ -5,6 +5,7 @@ file: /courses/6-857-network-and-computer-security-spring-2014/2f549600d1420b648
 file_type: text/python-source
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
